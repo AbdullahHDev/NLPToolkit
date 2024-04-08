@@ -43,7 +43,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - Abdullah Hussain
+My Name - Abdullah Hussain
 
 Project Link: [https://github.com/AbdullahHDev/NLPToolkit](https://github.com/AbdullahHDev/NLPToolkit)
 
